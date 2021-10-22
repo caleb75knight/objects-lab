@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GolfGame
+comment1.params=
+comment1.target=GolfGame()
+comment1.text=\#\r\n\ []\ TODO\ 14\:\ Write\ a\ constructor\ for\ a\ golf\ game.\ No\ imputs\ are\ expected.\r\n\ \r\n\ Set\ width\ and\ height\ to\ a\ default\ value\ of\ 500.\r\n\ Set\ putts\ to\ an\ initial\ value\ of\ 0.\r\n\ Set\ isGameOver\ to\ false.\r\n\ \r\n\ Initialize\ ball\ with\ the\ GolfBall(x,\ y)\ constructor,\ giving\ it\ two\ arbitrary\r\n\ x\ and\ y\ values\ between\ 0\ and\ 500\ (you\ pick).\r\n\ \r\n\ Initialize\ hole\ with\ the\ GolfHole(x,\ y)\ constructor,\ giving\ it\ two\ arbitrary\r\n\ x\ and\ y\ values\ between\ 0\ and\ 500\ (you\ pick).\r\n\ \r\n\ Optional\:\ As\ an\ extra\ challenge,\ use\ randomness\ to\ seed\ these\ starting\ \r\n\ coordinates\ so\ you\ will\ get\ a\ different\ game\ each\ time.\r\n
+comment2.params=mouseX\ mouseY
+comment2.target=void\ putt(double,\ double)
+comment3.params=
+comment3.target=void\ checkForBounce()
+comment4.params=
+comment4.target=void\ update()
+numComments=5

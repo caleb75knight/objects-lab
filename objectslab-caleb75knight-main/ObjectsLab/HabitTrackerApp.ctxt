@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HabitTrackerApp
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=h
+comment2.target=void\ layoutHabit(Habit)
+comment3.params=h
+comment3.target=java.lang.String\ getProgressText(Habit)
+comment4.params=h\ nameLabel\ progLabel\ progBar
+comment4.target=void\ settingsPopUp(Habit,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.ProgressBar)
+numComments=5
